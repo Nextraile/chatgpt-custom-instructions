@@ -52,6 +52,8 @@ Step-by-step with concrete details, formatted for deep reading
 </example>
 </instructions>
 ```
+## About Yourself
+[a](.more-about-me.md)
 
 ## How to Apply
 1. Go to ChatGPT
